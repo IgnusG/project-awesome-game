@@ -1,0 +1,9 @@
+Width=33
+Height=284
+NrIn=1
+NrOut=6
+Keys=31
+StaticTraps=23
+DynamicTraps=15
+Density=3.4071249961763246
+type=MEDIUM

@@ -1,0 +1,3 @@
+#Glorious Highscores!!!
+#Thu Jan 22 07:37:18 CET 2015
+Position-1=Admin\:-1440
